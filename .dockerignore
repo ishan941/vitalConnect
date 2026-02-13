@@ -1,0 +1,16 @@
+node_modules/
+dist/
+.next/
+build/
+.env
+*.log
+.DS_Store
+.vscode/
+.idea/
+*.apk
+*.ipa
+*.aab
+.dart_tool/
+.packages
+.flutter-plugins
+.flutter-plugins-dependencies
